@@ -67,7 +67,7 @@ class Homestead
 
     # Default Port Forwarding
     default_ports = {
-      80   => 8000,
+      80   => 80,
       443  => 44300,
       3306 => 33060,
       5432 => 54320
